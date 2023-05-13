@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "594069927818",
+    "project_id": "glaucoma-50541",
+    "storage_bucket": "glaucoma-50541.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594069927818:android:c4cefdee0188464bcaba73",
+        "android_client_info": {
+          "package_name": "com.example.glaucoma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "594069927818-sesbke95u0llbfd4oq4moreo08f02c00.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.glaucoma",
+            "certificate_hash": "b7754e77f4fae607582c3f1f90a74fbe9b7e074f"
+          }
+        },
+        {
+          "client_id": "594069927818-gd1l3kccjv64qppgpqrl2lhlsdfp0ohs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwu0Wju9Dyl8y_Gu4Phk5QEuvB34l6tbo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "594069927818-gd1l3kccjv64qppgpqrl2lhlsdfp0ohs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

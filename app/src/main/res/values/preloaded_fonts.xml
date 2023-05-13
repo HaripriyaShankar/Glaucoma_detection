@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/abril_fatface</item>
+        <item>@font/acme</item>
+        <item>@font/alice</item>
+        <item>@font/allerta</item>
+        <item>@font/andika</item>
+        <item>@font/della_respira</item>
+        <item>@font/electrolize</item>
+        <item>@font/playfair_display</item>
+        <item>@font/varela_round</item>
+    </array>
+</resources>

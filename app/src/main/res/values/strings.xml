@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Glaucoma</string>
+    <string name="login">LOGIN</string>
+    <string name="email">EMAIL</string>
+    <string name="password">PASSWORD</string>
+    <string name="pass">PASSWORD</string>
+    <string name="signup">SIGN UP</string>
+    <string name="name">NAME</string>
+    <string name="phone">MOBILE NO</string>
+    <string name="reenter">RE-ENTER PASSWORD</string>
+
+    <string name="regnew">SIGN UP</string>
+    <string name="logintext">Already have an account?</string>
+    <string name="loginnow">Login here</string>
+    <string name="regtext">Do not have an account?</string>
+    <string name="regnow">Sign up here</string>
+    <string name="usname">USERNAME</string>
+    <string name="user">USERNAME</string>
+    <string name="usertxt">Username cannot have \'.\', \'#\', \'$\', \'[\', \']\'</string>
+
+
+</resources>
